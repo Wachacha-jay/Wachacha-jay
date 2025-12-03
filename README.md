@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```python
 class DataScientist:
@@ -39,48 +39,48 @@ class DataScientist:
         return ["LLM Tooling", "Model Interpretability", "Advanced MLOps"]
 ```
 
-### 🎯 What I Do
+### What I Do
 
-- 🔭 **Currently Working On:** Building scalable ML pipelines, model deployment (Docker, Kubernetes), and automated model monitoring
-- 🌱 **Learning:** Scalable LLM tooling, model interpretability, and MLOps best practices
-- 👯 **Open to Collaborate:** ML infrastructure, production ML, computer vision, NLP, and data-intensive products
-- 💬 **Ask Me About:** Python, PyTorch, TensorFlow, scikit-learn, data engineering, feature stores, and model serving
-- 🌐 **Portfolio:** [wachacha-jay.github.io/James_wachacha](https://wachacha-jay.github.io/James_wachacha/)
+-  **Currently Working On:** Building scalable ML pipelines, model deployment (Docker, Kubernetes), and automated model monitoring
+-  **Learning:** Scalable LLM tooling, model interpretability, and MLOps best practices
+-  **Open to Collaborate:** ML infrastructure, production ML, computer vision, NLP, and data-intensive products
+-  **Ask Me About:** Python, PyTorch, TensorFlow, scikit-learn, data engineering, feature stores, and model serving
+-  **Portfolio:** [wachacha-jay.github.io/James_wachacha](https://wachacha-jay.github.io/James_wachacha/)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
-### 💻 Languages
+###  Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🤖 ML/DL Frameworks
+###  ML/DL Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### 📊 Data Science & Analytics
+### Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### ⚙️ MLOps & Infrastructure
+### MLOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### ☁️ Cloud & Databases
+### Cloud & Databases
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Tools & Platforms
+###  Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
@@ -88,11 +88,11 @@ class DataScientist:
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-### 🔗 [View Full Portfolio](https://wachacha-jay.github.io/James_wachacha/)
+### [View Full Portfolio](https://wachacha-jay.github.io/James_wachacha/)
 
 </div>
 
@@ -100,13 +100,13 @@ class DataScientist:
 <tr>
 <td width="50%">
 
-### 🎯 Project A
+### Project A
 **Tech Stack:** Python, PyTorch, Docker — A comprehensive, modular framework for building and comparing recommendation algorithms from scratch to production-ready systems.: https://github.com/Wachacha-jay/Recommender_system
 
 </td>
 <td width="50%">
 
-### 🚀 Project B
+### Project B
 **Tech Stack:** TensorFlow, Kubernetes, AWS — A complete MLOps solution for predicting loan approval status, Credit Scoring using machine learning, featuring automated training pipelines, model monitoring with MLflow, and a production-ready REST API.: https://github.com/Wachacha-jay/Credit_score_modeling
 
 </td>
@@ -114,13 +114,13 @@ class DataScientist:
 <tr>
 <td width="50%">
 
-### 🔬 Project C
+### Project C
 **Tech Stack:** scikit-learn, FastAPI, PostgreSQL — A hands-on MLOps course that covers the entire machine learning pipeline, from data collection to production deployment, using Python, Docker, Kubernetes, and MLflow.: https://github.com/Wachacha-jay/mlops_course
 
 </td>
 <td width="50%">
 
-### 📊 More Projects
+### More Projects
 Explore additional projects, notebooks, and technical writeups on my portfolio website.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-orange?style=flat-square&logo=google-chrome)](https://wachacha-jay.github.io/James_wachacha/)
@@ -129,11 +129,11 @@ Explore additional projects, notebooks, and technical writeups on my portfolio w
 </tr>
 </table>
 
-> 💡 **Note:** Replace project placeholders with your actual repositories. Include project names, descriptions, tech stacks, and links to showcase your best work!
+>  **Note:** Replace project placeholders with your actual repositories. Include project names, descriptions, tech stacks, and links to showcase your best work!
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -156,7 +156,7 @@ Explore additional projects, notebooks, and technical writeups on my portfolio w
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -166,7 +166,7 @@ Explore additional projects, notebooks, and technical writeups on my portfolio w
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -176,7 +176,7 @@ Explore additional projects, notebooks, and technical writeups on my portfolio w
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -186,7 +186,7 @@ I'm always interested in collaborating on innovative ML projects and discussing 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/James-Ngaruiya)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:jameswachacha@gmail.com)
 
-### 💭 Quote of the Day
+### Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
